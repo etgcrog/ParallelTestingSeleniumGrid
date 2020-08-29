@@ -1,0 +1,7 @@
+py
+pytest
+selenium
+pytest-xdist
+pytest-rerunfailures
+nose
+multiprocess
